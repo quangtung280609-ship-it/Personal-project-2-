@@ -3,4 +3,5 @@
 Thingspeak
 <img width="862" height="499" alt="image" src="https://github.com/user-attachments/assets/f171bab8-5677-46b1-9d66-20410e7812ea" />
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/bfc76173-b76e-405e-8bef-515cf65f8980" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b72411d9-04c0-4995-a416-8c7d39a65328" />
 
